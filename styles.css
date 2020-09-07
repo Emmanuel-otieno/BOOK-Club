@@ -1,0 +1,24 @@
+body{
+    background-color: blue;
+}
+header{
+    background-color: white;
+    font-style: bold;
+}
+h1{
+    color: green;
+}
+ul{
+    display: inline;
+}
+main{
+    background-color: white;
+    color: black;
+}
+
+
+footer{
+    background-color: white;
+    color:red;
+    font-style: bold;
+}
