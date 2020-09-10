@@ -12,9 +12,10 @@ h1{
     font-weight: bold;
 }
 }
-ul{
+li a{
     display: inline;
     flex-direction: row;
+    list-style-type: none;
 }
 main{
     background-color: white;
