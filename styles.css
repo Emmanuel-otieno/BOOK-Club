@@ -6,12 +6,11 @@ header{
     font-weight: bold;
 }
 
-}
-#nav, h1{
-    color: green;
-}
+
 h1{
     text-decoration: underline;
+    font-weight: bold;
+}
 }
 ul{
     display: inline;
